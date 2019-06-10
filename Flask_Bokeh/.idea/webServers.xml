@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b731f3cb-363f-4d20-bb83-0fc465351261" name="MyServer" url="http://cleoboonstra.nl.transurl.nl">
+        <fileTransfer host="cleoboonstra.nl.transurl.nl" port="22" rootFolder="/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
